@@ -1,4 +1,4 @@
 # CSCI-e10
-Homework files from CSCI e10a and CSCI e10b
+Homework files from Harvard CSCI e-10a and CSCI e-10b
 
-Java swing GUI client for the Black-scholes implementation
+Java swing GUI client for the Black-Scholes implementation
